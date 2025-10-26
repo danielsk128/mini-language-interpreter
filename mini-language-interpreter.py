@@ -1,9 +1,4 @@
 """
-Project Title: Mini Interpreter
-Authors: Daniel Shkoratov , ID : 207167032 .
-         Tal Yosef , ID : 316507516 .
-         Ohad Maymon , ID : 319067310 .
-         Tom Ben Baruch ID : 207339037 .
 
 Description:
 This script implements a mini interpreter for a simple programming language. It includes a lexer, parser, and interpreter
